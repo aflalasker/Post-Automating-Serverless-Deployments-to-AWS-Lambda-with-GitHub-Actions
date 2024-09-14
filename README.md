@@ -48,7 +48,7 @@ This repository contains GitHub Actions pipeline and Terraform configuration to 
 
 ## Blog Post
 
-For more detailed information, please refer to the [blog post](https://aflal.codes).
+For more detailed information, please refer to the [blog post](https://aflal.codes/posts/deploying-lambda-using-github-actions).
 
 ## License
 
